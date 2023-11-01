@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello, world
 
+I'm Naoto - a mishmap of film, music, and engineering.
 <!--
 **otoaneba/otoaneba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
