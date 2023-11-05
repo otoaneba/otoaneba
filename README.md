@@ -1,4 +1,4 @@
-### Hello, world
+### Hello, world 👋
 
 I'm Naoto - a mishmap of film, music, and engineering.
 <!--
