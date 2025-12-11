@@ -5,7 +5,6 @@ I'm Naoto - a mishmap of film, music, and engineering.
 Skills
 --- 
 <img src="assets/JS.svg" alt="drawing" width="50"/> <img src="assets/TypeScript.svg" alt="drawing" width="50"/>
-<img src="assets/Swift.svg" alt="drawing" width="50"/> <img src="assets/Python.svg" alt="drawing" width="50"/>
 
 <!--
 **otoaneba/otoaneba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
