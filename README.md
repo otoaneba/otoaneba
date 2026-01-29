@@ -10,7 +10,7 @@ I'm Naoto - a mishmash of film, music, and engineering.
 
 🛠️ Tools
 --- 
-<img src="assets/JS.svg" alt="drawing" width="50"/> <img src="assets/TypeScript.svg" alt="drawing" width="50"/>  <img src="assets/Python.png" alt="drawing" width="50"/> <img src="assets/Angular.png" width="50"/> <img src="assets/React.png" width="50"/> <img src="assets/NodeJs.svg" width="50"/> <img src="assets/postgreesql.png" width="50"/> <img src="assets/obsidian.png" width="50"/>
+<img src="assets/JS.svg" alt="drawing" width="50"/> <img src="assets/TypeScript.svg" alt="drawing" width="50"/>  <img src="assets/Python.png" alt="drawing" width="50"/> <img src="assets/Angular.png" width="50"/> <img src="assets/React.png" width="50"/> <img src="assets/NodeJs.svg" width="50"/> <img src="assets/postgreesql.jpg" width="50"/> <img src="assets/obsidian.png" width="50"/>
 
 <!--
 **otoaneba/otoaneba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
