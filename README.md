@@ -1,10 +1,20 @@
 ### Hello, world 👋
 
-I'm Naoto - a mishmap of film, music, and engineering.
+I'm Naoto - a mishmash of film, music, and engineering.
 
-Skills
+## 🔍 Current focus
+- Building clean, usable frontends (Angular / React)
+- Thinking more about UX & HCI, not just implementation
+- Improving how I explain technical decisions
+
+
+🛠️ Tools
 --- 
-<img src="assets/JS.svg" alt="drawing" width="50"/> <img src="assets/TypeScript.svg" alt="drawing" width="50"/>
+<img src="assets/JS.svg" alt="drawing" width="50"/>
+<img src="assets/TypeScript.svg" alt="drawing" width="50"/>
+<img src="assets/Angular.svg" width="50"/>
+<img src="assets/React.svg" width="50"/>
+<img src="assets/NodeJS.svg" width="50"/>
 
 <!--
 **otoaneba/otoaneba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
